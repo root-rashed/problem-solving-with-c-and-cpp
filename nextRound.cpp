@@ -3,12 +3,13 @@
 using namespace std;
 
 int main() {
-    int n;
-    cin >> n;
+    int n,p;
+    cin >> n >> p;
+   
+    
+    
+    
 
     
-    
-    int result =0;
-    return 0;
 
 }
