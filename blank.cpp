@@ -12,7 +12,7 @@ int main()
         int n;
         cin>>n;
         int a[n];
-        int maxi = 0;
+        int maximum = 0;
         int c = 0;
 
 
@@ -22,14 +22,14 @@ int main()
             if(a[i]==0)
             {
                 c++;
-                maxi = max(maxi,c);
+                maximum = max(maximum,c);
             }
             else
             {
                 c = 0;
             }
         }
-        cout<<maxi<<endl;
+        cout<<maximum<<endl;
     }
     return 0;
 }
