@@ -18,6 +18,7 @@ int main(){
             {
                 ++cur;
             }
+            
             else
             {
                 cur = 1;
