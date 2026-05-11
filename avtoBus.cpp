@@ -23,8 +23,7 @@ int main()
 
             cout<<mn<<" "<<mx<<endl;
         }
-
-        
+          
     }
     return 0;
 }
