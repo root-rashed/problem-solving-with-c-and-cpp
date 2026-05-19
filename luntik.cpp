@@ -13,6 +13,7 @@ ll power(ll a, ll b){
 }
 
 
+
 int main(){
     cin >> t;
     while(t--){
